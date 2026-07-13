@@ -3,6 +3,7 @@
 RideConverge: one person creates a trip, sends
 the link, everyone else drops a pin from their own device, and the matching
 engine (`lib/matcher.ts`) clusters riders into cars minimizing total detour.
+(rideconverge.vercel.app)
 
 ## Stack
 
